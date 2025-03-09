@@ -1,0 +1,16 @@
+filename = 'image2map-0.8.0+1.21.3.jar'
+name = 'Image2Map'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fab2fcca41a8d5e39ef48bfd557c4bfb4d27383d7bc9415c76b2100f52e34ae3bb6a5f9919a6617c2a081a886b9f869ff2c626a376e7b54a9f5491d14a66b54c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/13RpG7dA/versions/kkdbWskW/image2map-0.8.0%2B1.21.3.jar'
+
+[update.modrinth]
+mod-id = '13RpG7dA'
+version = 'kkdbWskW'

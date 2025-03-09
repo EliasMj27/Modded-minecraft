@@ -1,0 +1,261 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-03-09 18:37:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-03-09 18:37:41 +0100"
+    },
+    "done": false
+  },
+  "all_mob_heads:collection/zombie_villagers/savanna/end_line_savanna_zombie_villagers": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/villagers/plains/end_line_villagers": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/cats/end_line_cats": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/sea/sea_passive/end_line_passive": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/canidae/dogs/end_line_dogs": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/zombie_villagers/swamp/end_line_swamp_zombie_villagers": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/passives/end_line_passives": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/jungle/pandas/end_line_pandas": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/canidae/wolves/end_line_wolves": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/jungle/other/end_line_other": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/villagers/taiga/end_line_taiga_villagers": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/sea/sea_hostile/end_line_hostile": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/villagers/savanna/end_line_savanna_villagers": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/villagers/jungle/end_line_jungle_villagers": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/zombie_villagers/snow/end_line_snow_zombie_villagers": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/canidae/foxes/end_line_foxes": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/hostiles/anti_villagers/end_line_anti_villagers": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/sea/axolotls/end_line_axolotls": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/nether/end_line_nether": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/villagers/desert/end_line_desert_villagers": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/goats/end_line_goats": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/rabbits/end_line_rabbits": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/villagers/snow/end_line_snow_villagers": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/potatoes/end_line_potatoes": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/villagers/swamp/end_line_swamp_villagers": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/hostiles/slimes/end_line_slimes": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/zombie_villagers/taiga/end_line_taiga_zombie_villagers": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/vanilla/end_line_vanilla": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/zombie_villagers/jungle/end_line_jungle_zombie_villagers": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/zombie_villagers/plains/end_line_zombie_villagers": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/hostiles/classics/end_line_classics": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/zombie_villagers/desert/end_line_desert_zombie_villagers": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/jungle/parrots/end_line_parrots": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/horses/end_line_horses": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/llamas/end_line_llamas": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/sheeps/end_line_sheeps": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/end/shulkers/end_line_shulkers": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/frogs/end_line_frogs": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/end/classics/end_line_classics": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/bees/end_line_bees": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "all_mob_heads:collection/bosses/end_line_bosses": {
+    "criteria": {
+      "end": "2025-03-09 18:49:09 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 4189
+}

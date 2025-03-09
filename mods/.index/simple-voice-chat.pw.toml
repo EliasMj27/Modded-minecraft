@@ -1,0 +1,16 @@
+filename = 'voicechat-fabric-1.21.4-2.5.28.jar'
+name = 'Simple Voice Chat'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'bc7bc5624c799d45a6b95944f010df050c70aa4e1e56640386247623c7b1bb36d5617d3da58dd8c9ae8b1df99afd402cbf21b400b4b0291e3153d14b7d92a586'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9eGKb6K1/versions/DWQCr1uB/voicechat-fabric-1.21.4-2.5.28.jar'
+
+[update.modrinth]
+mod-id = '9eGKb6K1'
+version = 'DWQCr1uB'

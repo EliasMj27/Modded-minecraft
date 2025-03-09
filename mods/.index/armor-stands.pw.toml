@@ -1,0 +1,16 @@
+filename = 'armorstands-2.0.1+1.21.2.jar'
+name = 'Armor Stands'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd9392a2471da8e6eb973caeadf967ea8990c76209e9a11230f150516b8abccaf7bd3634523c52ef878e26f5eb6c6b9bb0dca17ab746ea769b4b0b75d2bc58fdc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FlC9CXUY/versions/ywyjeMrW/armorstands-2.0.1%2B1.21.2.jar'
+
+[update.modrinth]
+mod-id = 'FlC9CXUY'
+version = 'ywyjeMrW'
